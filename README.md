@@ -2,6 +2,8 @@
 ## Description
 The template design landing and other pages of the family portal.
 
+[Landing Page Family Portal - Live example](http://skrips.ru.preview.services/fportal/ "Template Design of Landing Page Family Portal")
+
 ## Directory Structure
 - fportal         - root directory
   - css           - directory with CSS vendor`s and customer`s files
