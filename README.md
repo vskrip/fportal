@@ -1,6 +1,6 @@
-# Template Design of Landing Page Familie`s Portal
+# Template Design of Family Portal
 ## Description
-The template of design is landing page for familie`s portal.
+The template design landing and other pages of the family portal.
 
 ## Directory Structure
 - fportal         - root directory

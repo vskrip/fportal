@@ -1,5 +1,5 @@
 /*
- * Familie`s Portal Template Design (http://skrips.org)
+ * Family Portal Template Design
  * Code licensed under the MIT License.
  * For details, see https://opensource.org/licenses/MITs
  */
